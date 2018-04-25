@@ -1,7 +1,7 @@
 # ADMIN-KILLER
 a Tool Made with Python Get the Contol Panel for PHP Web Sites
 
-# Requements:
+#Requements:
 
 If Tool Prompt a Mistake That Module Not Installed 
 
